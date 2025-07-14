@@ -73,7 +73,7 @@ BEGIN_DOCUMENT
     
     P(&(html_elems) {
         .attributs={attributs_},
-        .innerHTML="Voici le texte qui se trouve dans la balise P"
+        .innerHTML="Here is text found in HTML Paragraph tag"
     }, (EndTag) {.typetag=BEG});
 
 
